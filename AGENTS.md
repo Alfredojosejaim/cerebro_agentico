@@ -16,6 +16,13 @@ carpetas "por las dudas" ni inventes contenido de ejemplo salvo que se te
 pida explícitamente: la neutralidad inicial es una característica, no un
 descuido.
 
+## Uso con Obsidian
+
+Se puede abrir esta carpeta como un vault de Obsidian para navegar y editar
+el cerebro agéntico. Obsidian es opcional: los archivos y carpetas del disco
+siguen siendo la fuente de verdad. Al editar desde Obsidian, se respetan las
+capas, las convenciones de nombres y las reglas de registro de este manual.
+
 ## Las 6 capas y su función
 
 ```
