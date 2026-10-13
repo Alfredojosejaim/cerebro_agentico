@@ -1,3 +1,0 @@
-Se puede usar Obsidian para navegar y editar el cerebro agéntico.
-Obsidian es opcional; los archivos y carpetas del disco siguen siendo la fuente de verdad.
-Al trabajar desde Obsidian, hay que respetar las capas y las reglas descritas en AGENTS.md.
